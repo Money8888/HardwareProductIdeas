@@ -31,11 +31,11 @@ Hackaday / CNX Software / Adafruit / Seeed / Make / Tindie / Pimoroni / Phoronix
 ```
 README.md                    本说明
 data/
-  digest_YYYYMMDD.html       当日邮件正文（HTML，含原文链接，邮箱内可点击）
+  digest_YYYYMMDD.md         当日邮件正文（HTML 渲染为 Markdown，GitHub 可直接渲染展示）
   digest_YYYYMMDD.json       当日精选结构化数据（中文标题/描述/分类/图片/来源/原文链接）
 ```
 
-> 说明：`digest_YYYYMMDD.json` 与 `digest_YYYYMMDD.html` 为当日发送邮件的完整内容；本仓库只归档发邮件所需文件，不含任何脚本与中间产物。
+> 说明：`digest_YYYYMMDD.md` 为当日发送邮件的正文内容（由邮件 HTML 渲染而来），`digest_YYYYMMDD.json` 为对应的结构化数据；本仓库只归档发邮件所需文件，不含 HTML 源码与任何脚本、中间产物。
 
 ## 使用说明
 
