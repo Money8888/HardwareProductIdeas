@@ -1,12 +1,12 @@
-# 只跟踪 README.md 与发邮件文件（digest_*.html / digest_*.json）
+# 只跟踪 README.md 与发邮件渲染产物（digest_*.md 渲染版 / digest_*.json 数据）
+# HTML 源码（*.html）不推：仓库只放 GitHub 可渲染的 Markdown
 # 其余中间产物一律忽略
 *
 !README.md
 !.gitignore
 !data/
 data/*
-!data/digest_*.html
+!data/digest_*.md
 !data/digest_*.json
-# 排除 _wx / _cdn 等中间产物变体（它们也匹配上面的放行规则）
-data/digest_*_wx.html
+# 排除中间产物变体（它们也匹配上面的放行规则）
 data/digest_*_cdn.json
