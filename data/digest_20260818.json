@@ -10,11 +10,12 @@
    "zh": "Paper Tunes：把音乐存进纸里，再用 LoRa 无线串流播放",
    "idea": "一个脑洞大开的小制作：把歌曲以二维码/纸面编码的形式“印”在纸上作为存储介质，再用 LoRa 无线链路把数据读出来串流播放。低技术存储 + 长距离物联网通信的组合，演示了不依赖云端的复古离线音乐分发思路。",
    "en": "Store Tunes on Paper and Stream Them Over LoRA",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyjtXUARY9h6nMiaFe7OQ6fKicJicicDCpLib0ZHyZ6wwNytF0KftzY7ibe1cZsKGW0Hy6pibHs7SpQh56zLGVZQFib2xlH9pp3pROzPuk0/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://hackaday.com/wp-content/uploads/2026/08/PaperTunes1-e1786997102882.webp",
    "source": "Hackaday",
    "time": "2026-08-18 08:00",
    "link": "https://hackaday.com/2026/08/18/store-tunes-on-paper-and-stream-them-over-lora/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyjtXUARY9h6nMiaFe7OQ6fKicJicicDCpLib0ZHyZ6wwNytF0KftzY7ibe1cZsKGW0Hy6pibHs7SpQh56zLGVZQFib2xlH9pp3pROzPuk0/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "839c9a2b015a345c268bbb1dd12bdf51",
@@ -22,11 +23,12 @@
    "zh": "声学谐振器当推进器：让微型机器人飞起来",
    "idea": "Science Advances 上的新研究：利用亥姆霍兹谐振腔的声学共振效应作为微型机器人的“推进器”，无需传统螺旋桨/电机即可产生推力，为毫米级飞行机器人提供了全新动力方案，也展示了声学工程与 MEMS 结合的潜力。",
    "en": "Using Acoustic Resonators as Thrusters for Small Robots",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyj6LTBvVJibCSJKC0tiatzvuSJiaP7CBLXX4LPyhibrt2vSWb1wwVpTTrbaiaYDXrKKklw6epHzdpDgxyqHzDdC6K14jc0Z6cMk4Fo8/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://hackaday.com/wp-content/uploads/2026/08/micro_resonator_flying_robot_junsun_hwang_et_al_science_advances_2026.jpg",
    "source": "Hackaday",
    "time": "2026-08-18 05:00",
    "link": "https://hackaday.com/2026/08/17/using-acoustic-resonators-as-thrusters-for-small-robots/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyj6LTBvVJibCSJKC0tiatzvuSJiaP7CBLXX4LPyhibrt2vSWb1wwVpTTrbaiaYDXrKKklw6epHzdpDgxyqHzDdC6K14jc0Z6cMk4Fo8/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "db8fded6b141be7a8e88780293c5e4d2",
@@ -34,11 +36,12 @@
    "zh": "用 Starlink 卫星群研究地球高层大气",
    "idea": "数千颗在轨 Starlink 卫星除了提供宽带，还能充当大气遥感网：公开的星历/信号数据被研究人员用来反演 100 公里上下的高层大气特性。把商业星座变成科学仪器，是“卫星硬件 + 开源数据”的跨界玩法。",
    "en": "Using Starlink's Satellites to Study Earth's Upper Atmosphere",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOygvxu8wx3VibibnUk2GcEicOqkJ00vXbibwNJfopcf3zkPGDIPeK6XmY4SvPF01oeMyk2v99sjPbIRIFvg3uRaPXn2TKmiaIAL3aXvE/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://hackaday.com/wp-content/uploads/2026/08/remotesensing-17-01549-ag.jpg",
    "source": "Hackaday",
    "time": "2026-08-17 18:30",
    "link": "https://hackaday.com/2026/08/17/using-starlinks-satellites-to-study-earths-upper-atmosphere/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOygvxu8wx3VibibnUk2GcEicOqkJ00vXbibwNJfopcf3zkPGDIPeK6XmY4SvPF01oeMyk2v99sjPbIRIFvg3uRaPXn2TKmiaIAL3aXvE/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "e536c9e2956527d8c973e14dc28f8c41",
@@ -46,11 +49,12 @@
    "zh": "复古风格全能显示器：通吃一切视频输入接口",
    "idea": "一位硬件爱好者打造的“完美复古风显示器”：外壳是复古 CRT 造型，内部却支持 HDMI/VGA/分量/复合/S-Video 等几乎所有输入，还能做逐行处理。怀旧外观 + 现代接口的设计思路，适合做桌面摆件或老游戏机伴侣。",
    "en": "One Man's Perfect Retro-Style Monitor Takes All Inputs",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyhdBicFdvrgfYQZDHo7x3V0LpS5dgKjZ6RlydQYpM9zegPuIt2KZJmsZmKb8sJUFyGYyBlg11icCvHzM8qalWX5W0NHUB8gUjn04/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://hackaday.com/wp-content/uploads/2026/08/mini-retro-display-open.jpg",
    "source": "Hackaday",
    "time": "2026-08-17 23:00",
    "link": "https://hackaday.com/2026/08/17/one-mans-perfect-retro-style-monitor-takes-all-inputs/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyhdBicFdvrgfYQZDHo7x3V0LpS5dgKjZ6RlydQYpM9zegPuIt2KZJmsZmKb8sJUFyGYyBlg11icCvHzM8qalWX5W0NHUB8gUjn04/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "0f26a11a4971e2ab06343cc5f56860f8",
@@ -58,11 +62,12 @@
    "zh": "OLED 亮度上去了，烧屏问题却依旧",
    "idea": "长测对比显示：新一代 OLED 面板亮度大幅提升，但烧屏/残影问题并未改善。对数码产品（尤其是高频静态画面设备）是重要选购参考，也侧面说明微发光单元的老化物理瓶颈仍在。",
    "en": "OLEDs Have Gained Brightness, Not Burn-In Resistance",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOygxyUNldmFtVzsMWKAZkVRqibQQaoFFyNFn6eich3kCXPA1Cm5cM9jwCb0o2jWf9ofhoBtxzsYyGXGcF0Hubw8LVAYq8oKV5UuSQ/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://hackaday.com/wp-content/uploads/2026/08/oled-untested-v-tested-100-medium.jpg",
    "source": "Hackaday",
    "time": "2026-08-17 20:00",
    "link": "https://hackaday.com/2026/08/17/oleds-have-gained-brightness-not-burn-in-resistance/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOygxyUNldmFtVzsMWKAZkVRqibQQaoFFyNFn6eich3kCXPA1Cm5cM9jwCb0o2jWf9ofhoBtxzsYyGXGcF0Hubw8LVAYq8oKV5UuSQ/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "0dfb432dae4ea95e9af302f523d7fcbe",
@@ -70,11 +75,12 @@
    "zh": "LILYGO T-Echo Lite Kit：给 nRF52840 墨水屏 LoRa 板加键盘盖板",
    "idea": "T-Echo Lite Kit 在去年 T-Echo Lite 开发板基础上新增 QWERTY 键盘盖板：nRF52840 + LoRa + GPS + 墨水屏组合，配合键盘可实现不依赖手机的离网消息收发/对讲，适合户外应急通信与低功耗可穿戴项目。",
    "en": "LILYGO T-Echo Lite Kit adds a keyboard shield to the nRF52840-based ePaper LoRa and GPS development board",
-   "img": "",
+   "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/LILYGO-T-Echo-Lit-Kit-720x540.jpg",
    "source": "CNX Software",
    "time": "2026-08-18 09:10",
    "link": "https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "734d328a1f0ba80f28df4a99034a60f6",
@@ -82,11 +88,12 @@
    "zh": "USBridge-KVM 2.0：带 SSH/OCR/AI 的开源 IP-KVM",
    "idea": "众筹中的开源智能 IP-KVM：能在服务器未启动/无响应时带外接管 BIOS、远程显示与控制、挂载虚拟介质；还支持通过 SSH 访问、OCR 识别屏幕内容并接入 AI 辅助排障。数据中心与家庭 NAS 运维的进阶工具。",
    "en": "USBridge-KVM 2.0 – An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding)",
-   "img": "",
+   "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/USBridge-KVM-2.0-device-only-720x480.jpg",
    "source": "CNX Software",
    "time": "2026-08-18 07:31",
    "link": "https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "f064d90f6afc79ad64a3ea5a5566057f",
@@ -94,11 +101,12 @@
    "zh": "SONOFF Hydro DUO 评测：双区 Zigbee/BLE 智能水阀",
    "idea": "双通道智能水阀：支持 Zigbee 3.0 + BLE 5 双模、最多 12 组自定义浇水计划，内置流量计，可检测漏水风险/低电量/水量不足并告警，实测兼容 Home Assistant，是家庭园艺与管道安全自动化的实用硬件。",
    "en": "SONOFF Hydro DUO review – A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant",
-   "img": "",
+   "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/SONOFF-Hydro-DUO-review-eWeLink-Home-Assistant-720x481.jpg",
    "source": "CNX Software",
    "time": "2026-08-17 14:55",
    "link": "https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "629835a08df0184f9f52b479dc734f72",
@@ -106,11 +114,12 @@
    "zh": "Makerfabs Nomad Terminal：ESP32-S3 + LoRa 手持终端",
    "idea": "基于 ESP32-S3 + Semtech LR1121 LoRa 收发器 + GNSS 的手持开发平台：3.5 英寸触摸屏，支持 LoRa 消息、GPS 追踪、导航等，外壳紧凑，适合离网通信、户外定位和 LoRa 网络实验。",
    "en": "Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display",
-   "img": "",
+   "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/Makerfabs-Nomad-Terminal-–-3.5-inch-LoRa-GNSS-Handheld-720x480.jpg",
    "source": "CNX Software",
    "time": "2026-08-11 00:00",
    "link": "https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "2dd34e6b3bb82796acbbe09a21a4c5d4",
@@ -118,11 +127,12 @@
    "zh": "Elecrow ThinkNode M9：带键盘彩屏的 MeshCore 离网通信终端",
    "idea": "独立 LoRa 通信终端：ESP32-S3R8 + Semtech LR1110，配 QWERTY 键盘、彩色显示屏、GPS 与 2300mAh 电池，运行 MeshCore 固件，可在无手机网络下组网消息通信，适合户外探险、应急通信与自组网实验。",
    "en": "Elecrow ThinkNode M9 – A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard",
-   "img": "",
+   "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/ThinkNode-M9-MeshCore-Communication-Terminal-720x480.jpg",
    "source": "CNX Software",
    "time": "2026-08-10 00:00",
    "link": "https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "efc7d47db4a11eefedd418c118ebc20d",
@@ -130,11 +140,12 @@
    "zh": "高通 Snapdragon C Arm 芯片实测：拔电性能最高超 Intel N250 67%",
    "idea": "面向 300 美元级 Windows 笔记本的入门 Arm 芯片 Snapdragon C 公布基准：在“不插电”场景下比 Intel N250 最高快 67%。低端 x86 市场正被 Arm 方案重新定价，对入门级迷你主机/笔记本硬件选型有参考意义。",
    "en": "Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks",
-   "img": "",
+   "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/Qualcomm-Snapdragon-C-specs-benchmarks-720x567.jpg",
    "source": "CNX Software",
    "time": "2026-08-13 09:39",
    "link": "https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "c77d96f4ea67fae4cd480a432c1d112d",
@@ -145,7 +156,9 @@
    "img": "",
    "source": "Adafruit Blog",
    "time": "2026-08-13 20:00",
-   "link": "https://blog.adafruit.com/2026/08/13/smart-e-paper-desk-dashboard-esp32-c6-supermini-7-5-display-3dthursday-3dprinting/"
+   "link": "https://blog.adafruit.com/2026/08/13/smart-e-paper-desk-dashboard-esp32-c6-supermini-7-5-display-3dthursday-3dprinting/",
+   "img_cdn": "",
+   "img_status": "no_img"
   },
   {
    "id": "10b2a43656344ee4e86188f19deebc54",
@@ -156,7 +169,9 @@
    "img": "",
    "source": "Adafruit Blog",
    "time": "2026-08-14 14:00",
-   "link": "https://blog.adafruit.com/2026/08/14/make-a-lego-synthesizer-or-a-color-sensing-music-player-with-our-as7341-10-channel-light-color-sensor-breakout/"
+   "link": "https://blog.adafruit.com/2026/08/14/make-a-lego-synthesizer-or-a-color-sensing-music-player-with-our-as7341-10-channel-light-color-sensor-breakout/",
+   "img_cdn": "",
+   "img_status": "no_img"
   },
   {
    "id": "36bfcfd7b4752fc010493ce1b5ace30a",
@@ -164,11 +179,12 @@
    "zh": "Cave Radio：让无线电穿过实心岩层",
    "idea": "洞穴无线电（cave radio）教程：利用极低频/磁感应等非常规方式让信号穿透实心岩石，实现在地下洞穴中的通信。对救援通信、矿井对讲和“无信号环境”通信实验极具启发，附完整制作讲解。",
    "en": "Cave Radio – Talking Through Solid Rock",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyhnNM8riac0tqr6t2okP7Ujhiac4fdibmpneYx5ZkLTN9ZFWA5x76MsbtoJRmibOpUxf6x4VQtI4wU1AhnH0rSPNQgllzxjdrnNhUU/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://i0.wp.com/makezine.com/wp-content/uploads/2026/08/Cave-Radio-05.jpg?fit=750%2C500&ssl=1",
    "source": "Make Magazine",
    "time": "2026-08-17 12:00",
    "link": "https://makezine.com/article/electronics/cave-radio-talking-through-solid-rock/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyhnNM8riac0tqr6t2okP7Ujhiac4fdibmpneYx5ZkLTN9ZFWA5x76MsbtoJRmibOpUxf6x4VQtI4wU1AhnH0rSPNQgllzxjdrnNhUU/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "7dc5479f119d43f37df14072cd9c8b25",
@@ -176,11 +192,12 @@
    "zh": "汉诺威 Maker Faire：机器人格斗、跳舞的花与随音乐舞动的闪电",
    "idea": "德国最大创客嘉年华：巨鸟振翅、喷火的钢铁花、格斗机器人轮番登场，还有随音乐舞动的闪电装置。现场规模与作品水平是欧洲创客生态与开源硬件社区活跃度的直观窗口。",
    "en": "Maker Faire Hannover: Where Robots Fight, Flowers Dance, and Lightning Moves to the Music",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyhPhZW7zk1XCVdQZgd6QwNibib05o2AwBrw4ztn6VqKMQdIIAlEAVHYu0yqtsUScb7MnfLSo10GyDia84EDSDDxNspcqA49Fmox2Q/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://i0.wp.com/makezine.com/wp-content/uploads/2026/08/240825_HSE_MakerFaire2025-545-scaled.jpg?fit=750%2C500&ssl=1",
    "source": "Make Magazine",
    "time": "2026-08-13 20:04",
    "link": "https://makezine.com/article/maker-news/maker-faire-hannover-2026/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyhPhZW7zk1XCVdQZgd6QwNibib05o2AwBrw4ztn6VqKMQdIIAlEAVHYu0yqtsUScb7MnfLSo10GyDia84EDSDDxNspcqA49Fmox2Q/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "1855004e5d217f4ead336d63494bb74f",
@@ -188,11 +205,12 @@
    "zh": "输入多路复用：用最少资源扩出最多的 GPIO",
    "idea": "当引脚、内存、预算都紧张时，用电阻分压 + ADC 的输入复用方案把多个按键/开关并到一根引脚上：一个模拟输入扩展十几个数字输入，是低成本 MCU 项目省引脚的关键技巧。",
    "en": "Input Multiplexing – Maximum Pins with Minimal Resources",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyhKicVgJdA3t71LKYcpbbPfHJzqowiaLk8vWlFTWmRNdXJfUacNbyvDz8AGhcGUoACIv1rnic8ULL2WtZP2G5Y3UkJHUQk8SicvstY/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://i0.wp.com/makezine.com/wp-content/uploads/2026/08/Input-Multiplexing-prototype_1.jpeg?fit=750%2C563&ssl=1",
    "source": "Make Magazine",
    "time": "2026-08-10 16:00",
    "link": "https://makezine.com/article/electronics/input-multiplexing-maximum-pins-with-minimal-resources/",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyhKicVgJdA3t71LKYcpbbPfHJzqowiaLk8vWlFTWmRNdXJfUacNbyvDz8AGhcGUoACIv1rnic8ULL2WtZP2G5Y3UkJHUQk8SicvstY/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "e61524b6e92f7e5b31abd2f85927d523",
@@ -203,7 +221,9 @@
    "img": "",
    "source": "Phoronix",
    "time": "2026-08-17 16:50",
-   "link": "https://www.phoronix.com/review/arctic-fan-controller"
+   "link": "https://www.phoronix.com/review/arctic-fan-controller",
+   "img_cdn": "",
+   "img_status": "no_img"
   },
   {
    "id": "d149c1156fa15c6597acac5700a5f347",
@@ -211,11 +231,12 @@
    "zh": "ESP32-C3 “隔空刷视频神器”：蓝牙模拟触摸屏刷抖音",
    "idea": "基于 ESP32-C3 Super Mini 的趣味外设：通过蓝牙模拟 HID Digitizer（绝对坐标触摸屏），让手机把它识别为外接触摸屏，免 Root、免装 App 实现隔空上下滑动/看评论/转发视频。低成本“数字隔空遥控器”玩法，B 站有演示视频。",
    "en": "抖音刷视频的",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyia1iaA8gD7Eicww84qUYwCpkCBF5AGqd2wLIm8RHkBe811NuSMGQic25wianRx9fGVgkL1pbKBRAn4Bq38IbcXoAbr60AUBRC3tjOY/0?wx_fmt=other&from=appmsg",
+   "img": "https://image.lceda.cn/oshwhub/pullImage/7200942ce2f847418a6e02ab82e7420e.jpg",
    "source": "立创开源广场",
    "time": "2026-08-18 09:29",
    "link": "https://oshwhub.com/guy3440715446/project_jljpzaun",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyia1iaA8gD7Eicww84qUYwCpkCBF5AGqd2wLIm8RHkBe811NuSMGQic25wianRx9fGVgkL1pbKBRAn4Bq38IbcXoAbr60AUBRC3tjOY/0?wx_fmt=other&from=appmsg"
   },
   {
    "id": "7d63df1310b49fd5a350a9057f8007d7",
@@ -223,11 +244,12 @@
    "zh": "全频射频管家：ESP32-S3 + CMT2300A 无线信号分析/解码/回放一体机",
    "idea": "便携式射频分析工具：ESP32-S3 + CMT2300A 宽频 OOK 遥控信号，支持频谱分析、解码与回放，可复制各种无线遥控器/门禁/玩具的 433MHz 等信号。安全研究与遥控器替代场景的实用开源项目。",
    "en": "基于esp32s3+cmt2300a模组的全频射频管家",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOygFhz7VjuGbcezFrCe2VmRcNIicsD9RVviaED8wy4tC2ttQAWfLEM5g7N8pMJQ7fgwcp5KrlOXj4pibNzsIFS240EAkAk88Uhnic6Y/0?wx_fmt=other&from=appmsg",
+   "img": "https://image.lceda.cn/oshwhub/pullImage/a85ef53015dd468cac38ddda1a7f3618.png",
    "source": "立创开源广场",
    "time": "2026-08-18 09:25",
    "link": "https://oshwhub.com/manhere/project_wnplbksn",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOygFhz7VjuGbcezFrCe2VmRcNIicsD9RVviaED8wy4tC2ttQAWfLEM5g7N8pMJQ7fgwcp5KrlOXj4pibNzsIFS240EAkAk88Uhnic6Y/0?wx_fmt=other&from=appmsg"
   },
   {
    "id": "7be0cd6977db200c0fb87472da86091d",
@@ -235,11 +257,12 @@
    "zh": "ScreenBuddy：实时显示 AI Agent 状态的桌面副屏",
    "idea": "第 11 届立创电赛项目：50 元级 USB 桌面小屏，实时显示 Claude/Cursor/Codex/Gemini 等 AI Agent 的“思考/调工具/等你确认/完成”状态，盯终端等 AI 写代码时不再瞎等。RISC-V + 副屏形态的 AI 工作流硬件。",
    "en": "#第11届立创电赛#AI agent 状态副屏",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyg1krGfYCPn09AEvAjNlNkvBrgcjEo9w0tMha5BrXZbfTicHOESdI8Hzib143ayLfGylHFvVic5f2VjT9tkxGAGCMYW9I4Ug5UOLQ/0?wx_fmt=other&from=appmsg",
+   "img": "https://image.lceda.cn/oshwhub/pullImage/e60e384d38304f44b98dd5ce4a675894.jpg",
    "source": "立创开源广场",
    "time": "2026-08-18 07:03",
    "link": "https://oshwhub.com/wwwwwuuuuu/project_sygstifj",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyg1krGfYCPn09AEvAjNlNkvBrgcjEo9w0tMha5BrXZbfTicHOESdI8Hzib143ayLfGylHFvVic5f2VjT9tkxGAGCMYW9I4Ug5UOLQ/0?wx_fmt=other&from=appmsg"
   },
   {
    "id": "181852f553277ad6f8d078ec9f7f9f2e",
@@ -247,11 +270,12 @@
    "zh": "极简 Z80 单板机：用最少芯片跑 BASIC",
    "idea": "基于 Grant Searle 经典设计的 Z80 单板计算机：最少芯片即可运行 Micro BASIC，适合复古计算入门与计算机原理教学。开源复刻老式 8 位机的低成本方案，情怀与教学兼顾。",
    "en": "可运行BASIC 的简单 Z80 单板机",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyjwUpCK6aqvz7hhW7crCDmFSNKFv56lxbic4uvh2FxSoHtON7n0icUO5VRre1jYr36ORZglOMRicbQaG63Os3XzevojwONCzFYgBY/0?wx_fmt=other&from=appmsg",
+   "img": "https://image.lceda.cn/oshwhub/pullImage/ae90d6290e254bdea04d4619309925e4.jpg",
    "source": "立创开源广场",
    "time": "2026-08-18 06:58",
    "link": "https://oshwhub.com/wlybl/project_qnnmfyut",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_jpg/8NwjlQaibOyjwUpCK6aqvz7hhW7crCDmFSNKFv56lxbic4uvh2FxSoHtON7n0icUO5VRre1jYr36ORZglOMRicbQaG63Os3XzevojwONCzFYgBY/0?wx_fmt=other&from=appmsg"
   },
   {
    "id": "9b140017967f415dc9a8dbb2ab326b11",
@@ -259,11 +283,12 @@
    "zh": "Microchip MCG3140 3D 手势传感器：隔空触控方案验证板",
    "idea": "只要画好 PCB 就能实现的隔空手势识别：Microchip MCG3140 传感器方案，无需额外器件即可做非接触触控/手势识别，配套 PIC MCU 连接器便于快速测试。适合做无接触交互面板、智能家居隔空控制。",
    "en": "Microchip MCG3140 3D手势传感器",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyiazemqK9UQ4Mrr4wpxUCKC45SnAwdRfwh9ia9oZpvwUqibQPxN4pdNdgEjn0ysb5ZsT3GiaA7siaLsbg2icrMx7kBsF5V6y2icnFo5lU/0?wx_fmt=other&from=appmsg",
+   "img": "https://image.lceda.cn/oshwhub/pullImage/68625ec94e37432784a961fa41301878.jpg",
    "source": "立创开源广场",
    "time": "2026-08-18 07:04",
    "link": "https://oshwhub.com/havchavc/project_lmquxzox",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyiazemqK9UQ4Mrr4wpxUCKC45SnAwdRfwh9ia9oZpvwUqibQPxN4pdNdgEjn0ysb5ZsT3GiaA7siaLsbg2icrMx7kBsF5V6y2icnFo5lU/0?wx_fmt=other&from=appmsg"
   },
   {
    "id": "490f30533f939d3b6dfea78866e4c995",
@@ -271,11 +296,12 @@
    "zh": "OpenblF405MINI 穿越机飞控板：低成本 F405 小型化方案",
    "idea": "支持小型化穿越机安装的 F405 飞控：MPU6500+BMP280，四层板双面贴装，带完整 OSD、SD 卡黑匣子、电流计接口。超级低成本的穿越机飞控开源方案，适合入门玩家自组与学习。",
    "en": "OpenblF405MINI飞控板",
-   "img": "",
+   "img": "https://image.lceda.cn/oshwhub/pullImage/3ac773d07f474392843cc72d3193dc42.jpg",
    "source": "立创开源广场",
    "time": "2026-08-18 07:00",
    "link": "https://oshwhub.com/yangyangyou/project_qvbuwenu",
-   "img_status": "rejected"
+   "img_status": "rejected",
+   "img_cdn": ""
   },
   {
    "id": "279256d146642788ab3b3bab3cb08fbb",
@@ -283,11 +309,12 @@
    "zh": "石头 P30 Pro 体验：60°C 热活水滚筒 + 8.98cm 极薄机身",
    "idea": "石头扫拖机器人换代旗舰：主打 60°C 热活水滚筒自清洁，8.98cm 极薄机身能钻入更低家具底部，配合 AI 识别与吸拖一体，代表国产扫地机在“自清洁 + 形态创新”上的最新迭代方向。",
    "en": "石头 P30 Pro 体验：石头爆款扫拖机器人大换代",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyjlnY1Q7bMFQCzZGzQicMzgjJ4EiaIFhOM9nufiapaqb61IBiapqiaX6sOevm6FCWQ3Ns4bicB49iaM4ictVH6HDWLg1WiagIk2Piade9qgg/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://img.ithome.com/newsuploadfiles/2026/8/f2614fb5-bbe0-45e6-8657-20635e1dc026.jpg",
    "source": "IT之家",
    "time": "2026-08-18 10:17",
    "link": "https://www.ithome.com/0/991/273.htm",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOyjlnY1Q7bMFQCzZGzQicMzgjJ4EiaIFhOM9nufiapaqb61IBiapqiaX6sOevm6FCWQ3Ns4bicB49iaM4ictVH6HDWLg1WiagIk2Piade9qgg/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "ad6d76ee4e179c60c9fbd9162823f2ad",
@@ -295,11 +322,12 @@
    "zh": "CPU-Z 2.21 初步支持国产显卡砺算 LX 7G100",
    "idea": "国产 GPU 生态又进一步：CPU-Z 2.21 加入对砺算 LX 7G100 的识别支持。该卡基于自研 TrueGPU 架构，12GB GDDR6，支持 DX12/Vulkan 1.3 与 NRSS 超分，工具链的跟进说明国产显卡正走向消费级市场。",
    "en": "CPU-Z 迎来 2.21 版本，初步支持国产显卡砺算 LX 7G100",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_png/8NwjlQaibOygSHvHLK3N13A9FEVCYQwaWmWriaiaFUAK7p23iaia5cwOl8uNKJ5CSMka0wXQFG0xeKNCcqYgjStRK2k2LzjA4pNUSlcdSt3CdmyI/0?wx_fmt=png&from=appmsg",
+   "img": "https://img.ithome.com/newsuploadfiles/2026/8/62a8d0c6-0f99-4b3d-89bb-cb576d6c9f7b.png?x-bce-process=image/format,f_auto",
    "source": "IT之家",
    "time": "2026-08-18 09:59",
    "link": "https://www.ithome.com/0/991/258.htm",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_png/8NwjlQaibOygSHvHLK3N13A9FEVCYQwaWmWriaiaFUAK7p23iaia5cwOl8uNKJ5CSMka0wXQFG0xeKNCcqYgjStRK2k2LzjA4pNUSlcdSt3CdmyI/0?wx_fmt=png&from=appmsg"
   },
   {
    "id": "0435369871593f50ee0a8f3cdc13ad2f",
@@ -307,11 +335,12 @@
    "zh": "中国信通院：具身智能训练场产业链已初步成型",
    "idea": "《具身智能训练场研究报告(2026)》发布：训练场产业呈“上游技术供给活跃、下游应用待拓展”的倒三角结构，涉及场景建设、数据采集、算力网络等重资产投入，商业模式仍在探索，是具身智能基础设施的行业风向标。",
    "en": "产业链已初步成型，中国信通院联合发布具身智能训练场研究报告",
-   "img": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOygXUINfrTtXY59JaN1xSc7ibxHBLljKxp2VIC09Eyiahv0ib4JEXw7vYBbGkMcQhibjicotOibIZ7meCAvxUBvyYGgn9YCSaDEkCfStM/0?wx_fmt=jpeg&from=appmsg",
+   "img": "https://img.ithome.com/newsuploadfiles/2026/8/73fac145-1885-43cb-ac99-28548d937374.jpg",
    "source": "IT之家",
    "time": "2026-08-18 09:23",
    "link": "https://www.ithome.com/0/991/239.htm",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/8NwjlQaibOygXUINfrTtXY59JaN1xSc7ibxHBLljKxp2VIC09Eyiahv0ib4JEXw7vYBbGkMcQhibjicotOibIZ7meCAvxUBvyYGgn9YCSaDEkCfStM/0?wx_fmt=jpeg&from=appmsg"
   },
   {
    "id": "69629b55fa09d4f8b12c367543905454",
@@ -319,11 +348,12 @@
    "zh": "智界 RX 官宣四激光雷达矩阵：面向更高阶智驾的冗余架构",
    "idea": "鸿蒙智行首款字母命名车型：搭载四激光雷达矩阵，构建全链路冗余架构，方向盘“A”键承载 L3 冗余构想。多激光雷达 + 冗余设计代表高阶智驾硬件堆料与安全冗余的最新思路。",
    "en": "赵长江官宣智界 RX 搭载四激光雷达矩阵",
-   "img": "https://mmbiz.qlogo.cn/mmbiz_png/8NwjlQaibOyhgnZ5XHgrKIb8DrWTmOeMmAHLdep8VKnI7oArtSsAOibMy5nxsEvhibekx8QwK5cRTwFGIPiaHsx1Us6SGzKvaofIqmiaYAw0FcUs/0?wx_fmt=png&from=appmsg",
+   "img": "https://img.ithome.com/newsuploadfiles/2026/8/40c30fe6-ab9a-4ed8-afcd-83dd4b44ac14.png?x-bce-process=image/format,f_auto",
    "source": "IT之家",
    "time": "2026-08-18 09:16",
    "link": "https://www.ithome.com/0/991/229.htm",
-   "img_status": "cdn"
+   "img_status": "cdn",
+   "img_cdn": "https://mmbiz.qlogo.cn/mmbiz_png/8NwjlQaibOyhgnZ5XHgrKIb8DrWTmOeMmAHLdep8VKnI7oArtSsAOibMy5nxsEvhibekx8QwK5cRTwFGIPiaHsx1Us6SGzKvaofIqmiaYAw0FcUs/0?wx_fmt=png&from=appmsg"
   },
   {
    "id": "f25e4eb2454c96d3dd896e19c02a1b5a",
@@ -334,7 +364,9 @@
    "img": "",
    "source": "树莓派实验室",
    "time": "2026-08-16 06:59",
-   "link": "https://shumeipai.nxez.com/2026/08/16/bucknell-university-baja-sae-data-acquisition-daq-challenge.html"
+   "link": "https://shumeipai.nxez.com/2026/08/16/bucknell-university-baja-sae-data-acquisition-daq-challenge.html",
+   "img_cdn": "",
+   "img_status": "no_img"
   }
  ]
 }
