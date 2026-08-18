@@ -37,6 +37,12 @@ data/
 
 > 说明：`digest_YYYYMMDD.md` 为当日发送邮件的正文内容（由邮件 HTML 渲染而来），`digest_YYYYMMDD.json` 为对应的结构化数据；本仓库只归档发邮件所需文件，不含 HTML 源码与任何脚本、中间产物。
 
+## 提交方式
+
+- 提交身份：`Money8888 <43008386+Money8888@users.noreply.github.com>`（GitHub noreply）
+- 凭据：GitHub Personal Access Token（经本地 store 凭据文件，走 HTTPS）
+- 代理：本地 7890 代理监听时自动启用（访问 GitHub 需要）
+
 ## 使用说明
 
 - 仓库内容仅供学习参考，版权归原作者所有
