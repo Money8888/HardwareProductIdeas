@@ -1,0 +1,261 @@
+{
+  "date": "20260821",
+  "subject": "国内外开源硬件创意（精选23条）",
+  "total_raw": 183,
+  "filtered": 23,
+  "items": [
+    {
+      "id": "7f84c76502b4167533c3d84c6d3bbcf3",
+      "cat": "立创开源广场",
+      "zh": "600W PFC+LLC 高效电源模块（48V/12.5A）",
+      "idea": "输入 AC176-264V、输出 48V/12.5A（最大 600W）的开源开关电源，采用 PFC 前置加非对称半桥 LLC 拓扑，目标效率 93%、输出纹波小于 50mV，具备 OVP/OCP 保护与自然冷却散热。原理图与 layout 开放（CC-BY-4.0），对自制高效大功率电源或学习 LLC 谐振变换很有参考价值。",
+      "en": "600W-PFC+LLC",
+      "img": "https://image.lceda.cn/oshwhub/pullImage/6892fbf0087e49938a7c7bc3cc203025.jpg",
+      "source": "立创开源广场",
+      "time": "2026-08-21 10:10",
+      "link": "https://oshwhub.com/eda_pxzjgdhk/project_amsdfhvf"
+    },
+    {
+      "id": "012c6ffe66089e0dfb9bf8e607f44bb9",
+      "cat": "立创开源广场",
+      "zh": "32x32mm 极限尺寸 CW32 一体化 FOC 驱动器",
+      "idea": "基于 CW32 单片机、仅 32x32mm 的极小一体化 FOC（磁场定向控制）电机驱动板，面向无刷电机的紧凑驱动场景。项目给出重构中的原理图、电源滤波与代码（移植自 dgm 开源项目），适合空间受限的机器人关节、云台或微型运动控制，体积小却功能完整。",
+      "en": "【CW32】32x32mm极限尺寸一体式FOC驱动器",
+      "img": "https://image.lceda.cn/avatars/2022/6/CPAWc95HytnfCzChg4mPaV1Co4edY3K5Uo1MNGb7.png",
+      "source": "立创开源广场",
+      "time": "2026-08-21 09:23",
+      "link": "https://oshwhub.com/knight_sin/ji-yucw32f0-di-yi-ti-shifoc-qu-dong-qi"
+    },
+    {
+      "id": "b68693dde6162f282207877341242f3c",
+      "cat": "立创开源广场",
+      "zh": "mipiPI：40pin 通用 MIPI 屏幕开发板（匠芯创 D133）",
+      "idea": "针对市面上规格混乱的 MIPI 屏幕接口，作者基于匠芯创 D133 做了块 40pin 通用 MIPI 屏驱动板，可驱动广泛用于行车记录仪等设备的统一接口屏幕。因 MIPI 速率高普通 MCU 难直接驱动，该板提供现成方案，方便创客把廉价 MIPI 屏接入自己的项目。",
+      "en": "mipiPI-40pin MIPI屏幕开发板",
+      "img": "https://image.lceda.cn/oshwhub/pullImage/06d64e44cbd5424daf941bc4bf2dc6c1.jpg",
+      "source": "立创开源广场",
+      "time": "2026-08-21 08:10",
+      "link": "https://oshwhub.com/eda_gptcmlqkh/project_xibiwewb"
+    },
+    {
+      "id": "d54eb8caf261d63ecc9b125ad33c451b",
+      "cat": "立创开源广场",
+      "zh": "半固态电芯 10000mAh 充电宝（22.5W）",
+      "idea": "第 11 届立创电赛作品，采用 10Ah 半固态电芯的 22.5W 充电宝，集成电量计与电池健康状态（SoH）监测，并可通过 PC 上位机读取电池信息。半固态电芯能量密度高、更安全，配合开放的设计适合学习电源管理与电池监测电路。",
+      "en": "#第11届立创电赛# 半固态充电宝-10000mAh版",
+      "img": "https://image.lceda.cn/oshwhub/pullImage/7a24db7d82e24f6e9779ab98769edebd.jpeg",
+      "source": "立创开源广场",
+      "time": "2026-08-21 06:39",
+      "link": "https://oshwhub.com/an_ye/project_sxidwatg"
+    },
+    {
+      "id": "4b14c65494f51c71918bb20279ae50a1",
+      "cat": "开发板·模块",
+      "zh": "M5Stack Paper Mono：ESP32-S3 电子墨水开发板（3.97 寸触屏+LoRa+NFC）",
+      "idea": "M5Stack 新推出的 Paper Mono 开发套件基于 ESP32-S3，搭载 3.97 英寸单色电子墨水触摸屏，并支持 LoRa 长距离与 NFC 近场通信，相比前代 PaperColor 刷新更快。适合做低功耗信息牌、电子标签、户外传感节点等需常显且不费电的物联网项目。",
+      "en": "M5Stack Paper Mono – An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC",
+      "img": "https://www.cnx-software.com/wp-content/uploads/2026/08/M5Stack-Paper-Mono-ESP32-S3-monochrome-E-Ink-devkit-720x635.jpg",
+      "source": "CNX Software",
+      "time": "2026-08-21 09:43",
+      "link": "https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/"
+    },
+    {
+      "id": "61da297a23c43329cbd35859a89175b4",
+      "cat": "开发板·模块",
+      "zh": "Adafruit GP8403：I2C DAC 扩展板（带 12V 升压+NVM）",
+      "idea": "Adafruit 新出的 GP8403 分线板是一颗 I2C 接口 DAC，内置 12V 升压与 NVM 非易失存储，采用 STEMMA QT/qwiic 易插接口。可让树莓派或单片机轻松输出 0-10V 模拟电压并断电保持，适合工业控制、模拟调光、阀门/执行器驱动等需要稳定模拟输出的场景。",
+      "en": "NEW PRODUCT – Adafruit GP8403 Breakout Board I2C DAC with 12V Booster + NVM – STEMMA QT / qwiic",
+      "img": "",
+      "source": "Adafruit Blog",
+      "time": "2026-08-20 19:25",
+      "link": "https://blog.adafruit.com/2026/08/20/new-product-adafruit-gp8403-breakout-board-i2c-dac-with-12v-booster-nvm-stemma-qt-qwiic/"
+    },
+    {
+      "id": "5b29c084e01c109bcc0ee39760ec727e",
+      "cat": "开发板·模块",
+      "zh": "Romu：小到容易弄丢的 RP2350 开发板",
+      "idea": "Romu 基于 Raspberry Pi 官方 RP2354A 芯片，体积比一个面包袋夹还小，却是一块完整的 RP2350 微控制器开发板。极致迷你适合嵌入到空间受限的手持设备、可穿戴或便携仪器中，对需要隐形主控的创客项目很有吸引力。",
+      "en": "Romu, the RP2350 Board Small Enough To Lose",
+      "img": "https://i0.wp.com/makezine.com/wp-content/uploads/2026/08/Romu-4.png?fit=597%2C348&amp;ssl=1",
+      "source": "Make Magazine",
+      "time": "2026-08-20 15:00",
+      "link": "https://makezine.com/article/technology/microcontrollers/romu-the-rp2350-board-small-enough-to-lose/"
+    },
+    {
+      "id": "4f7514110bdcdd34903ce82d21f70d49",
+      "cat": "开发板·模块",
+      "zh": "Seeed Grove OLED 1.12 寸（SH1107）V3.0 显示模块",
+      "idea": "Seeed 推出的 Grove 系列 1.12 英寸 OLED 显示屏（SH1107 驱动），采用标准 Grove 插接接口，可一键接入 Arduino、IoT 与嵌入式项目，无需焊接即可为作品加上小巧清晰的状态显示，适合做传感器读数、菜单或状态指示。",
+      "en": "Grove – OLED Display 1.12 (SH1107) V3.0: A Compact Display for Your Projects",
+      "img": "",
+      "source": "Seeed Studio",
+      "time": "2026-08-21 07:16",
+      "link": "https://www.seeedstudio.com/blog/2026/08/21/grove-oled-display-1-12-sh1107-v3-0-a-compact-display-for-your-projects/"
+    },
+    {
+      "id": "54482dee0dbd78c25b5a517c8b731500",
+      "cat": "开发板·模块",
+      "zh": "自制 68K 计算机竟带 PCI 总线",
+      "idea": "一位爱好者打造的古董级 Motorola 68000 计算机，不仅复刻了经典处理器系统，还为其加入了 1992 年才出现的 PCI 总线，让老架构能用上现代扩展卡。项目展示了如何用现代逻辑把 PCI 桥接到 68K，是复古计算与总线协议的硬核学习范例。",
+      "en": "Homebrew 68K Machine Has A PCI Bus",
+      "img": "https://hackaday.com/wp-content/uploads/2026/08/img_20260819_215428_c-e1787210997954.jpg",
+      "source": "Hackaday",
+      "time": "2026-08-20 20:00",
+      "link": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/"
+    },
+    {
+      "id": "ccfba8111a1d7d06f3d54e41fa884372",
+      "cat": "前沿创新",
+      "zh": "常压下超导临界温度再创纪录",
+      "idea": "研究团队在常压条件下把某类超导体的临界温度推到新高度（无需此前动辄数百 GPa 的极端高压），向室温超导又迈近一步。文章梳理了这类材料的工作原理与最新进展，对能源、磁体与量子器件都有深远意义，是凝聚态物理与材料创新的前沿热点。",
+      "en": "Superconducting Temperature Record set at Ambient Pressure",
+      "img": "https://hackaday.com/wp-content/uploads/2026/08/high-temp-superconductor-featured.jpg",
+      "source": "Hackaday",
+      "time": "2026-08-21 02:00",
+      "link": "https://hackaday.com/2026/08/20/superconducting-temperature-record-set-at-ambient-pressure/"
+    },
+    {
+      "id": "8f721d6212830fb3a1db8e0b42d17d61",
+      "cat": "前沿创新",
+      "zh": "折叠 OLED 之敌：铰链缝隙里的灰尘",
+      "idea": "与当年苹果蝶式键盘类似，如今带柔性 OLED 的可折叠设备（手机/平板）最大痛点不是屏幕本身，而是铰链缝隙进灰导致屏幕顶伤、出现亮线。文章从 iFixit 拆解角度分析灰尘如何在折叠处堆积并破坏屏幕，对折叠屏可靠性设计与防护有启发。",
+      "en": "Foldable OLED Displays and the Bane of Dust",
+      "img": "https://hackaday.com/wp-content/uploads/2026/08/folding_phone_uv_dust_on_hinge_ifixit_youtube.jpg",
+      "source": "Hackaday",
+      "time": "2026-08-20 18:30",
+      "link": "https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/"
+    },
+    {
+      "id": "22cf47c69c36dacd2deb1e6040c241b2",
+      "cat": "前沿创新",
+      "zh": "曾驱动工厂的 1-bit CPU（Hackaday Europe 2026）",
+      "idea": "在 Hackaday Europe 2026 上，Nicola Cimmino 讲述了一种极简的 1-bit CPU——它曾被用于实实在在驱动工厂产线。作者从电子垃圾处理厂淘来旧板卡，复原并讲解了这套只用单比特逻辑却能完成工业控制的奇特架构，是极简计算与工业史的精彩案例。",
+      "en": "Hackaday Europe 2026: The 1-bit CPU that ran factories",
+      "img": "",
+      "source": "Adafruit Blog",
+      "time": "2026-08-20 14:30",
+      "link": "https://blog.adafruit.com/2026/08/20/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/"
+    },
+    {
+      "id": "f34d958949cd131e3b306c494fe092cc",
+      "cat": "前沿创新",
+      "zh": "Anouk Wipprecht 用代尔夫特蓝点亮 F1 奖杯",
+      "idea": "时尚科技先驱 Anouk Wipprecht 与艺术家 Don Diablo 合作为荷兰大奖赛皇家代尔夫特手绘奖杯加入发光与动态光效，将传统蓝陶工艺与可穿戴电子结合。这是电子纺织/时尚科技（FashionTech）把文化符号变成会发光艺术品的代表案例。",
+      "en": "Anouk Wipprecht Brings Delft Blue to Life and Light for the Final Dutch Grand Prix",
+      "img": "https://i0.wp.com/makezine.com/wp-content/uploads/2026/08/trophies0.jpg?fit=750%2C422&amp;ssl=1",
+      "source": "Make Magazine",
+      "time": "2026-08-20 15:15",
+      "link": "https://makezine.com/article/maker-news/anouk-wipprecht-brings-delft-blue-to-life-and-light-for-the-final-dutch-grand-prix/"
+    },
+    {
+      "id": "6c95307d9b03bc04019cc34044c4bc1f",
+      "cat": "智能硬件",
+      "zh": "伪造序列号解锁一台 Cricut 雕刻机",
+      "idea": "黑客 xssfox 从电子垃圾中淘到一台 Cricut Maker 雕刻机，发现通过伪造或改写设备序列号即可绕过厂商的耗材绑定与功能限制，让机器恢复自由使用。文章记录了破解思路与硬件扫描过程，是关于设备越狱与用户主权的典型 DIY 案例。",
+      "en": "Spoofed Serial Number Unlocks Cricut Machine",
+      "img": "https://hackaday.com/wp-content/uploads/2026/08/photo_2026-07-01-13.48.56-e1787211707856.jpeg",
+      "source": "Hackaday",
+      "time": "2026-08-21 11:00",
+      "link": "https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/"
+    },
+    {
+      "id": "7203e339ee262abe5fd1e2ec23bb8079",
+      "cat": "智能硬件",
+      "zh": "在 Steam 手柄上跑起文字游戏 Zork",
+      "idea": "有开发者为 Valve Steam Controller 刷入自定义固件，把这台本只作输入用的手柄变成能独立运行程序的小电脑，并在上面玩起了经典文字冒险游戏 Zork。展示了手柄内置处理能力的潜力，是外设变身迷你主机的趣味黑客项目。",
+      "en": "Running Zork On The Steam Controller",
+      "img": "https://hackaday.com/wp-content/uploads/2026/08/I-wrote-custom-firmware-for-my-Steam-Controller-and-played-Zork-on-it.-3-1-screenshot-1-e1787285136548.png",
+      "source": "Hackaday",
+      "time": "2026-08-21 05:00",
+      "link": "https://hackaday.com/2026/08/20/running-zork-on-the-steam-controller/"
+    },
+    {
+      "id": "ff5bf088b6ec94f5620d1fe4115e7a6c",
+      "cat": "智能硬件",
+      "zh": "Deskbuddy：ESP32 触屏桌面仪表盘",
+      "idea": "Deskbuddy 是一个可自定义的迷你桌面仪表盘，把触控 ESP32 开发板与简单软件组件结合，常显时间、天气、便签、计时器等模块，让你不用频繁看手机。3D 打印外壳加开源固件，是桌面信息与专注管理的轻量创客项目。",
+      "en": "Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting",
+      "img": "",
+      "source": "Adafruit Blog",
+      "time": "2026-08-21 00:00",
+      "link": "https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/"
+    },
+    {
+      "id": "9edeba1ef7fc932314f63a6a941fd7ce",
+      "cat": "智能硬件",
+      "zh": "P2.5 LED 点阵智能时钟（ESP32+网页配置）",
+      "idea": "一个基于 ESP32 的 LED 点阵智能时钟，使用 P2.5/P5.0 点阵屏，连接 WiFi 后所有设置都通过内置网页服务器完成：5 种时钟界面、定时切换、天气显示，并配 AHT10 温湿度传感器做温度偏移补偿。开源且易改，是 LED 时钟的进阶玩法。",
+      "en": "P2.5 LED Matrix Smart Clock #3DThursday #3DPrinting",
+      "img": "",
+      "source": "Adafruit Blog",
+      "time": "2026-08-20 18:00",
+      "link": "https://blog.adafruit.com/2026/08/20/p2-5-led-matrix-smart-clock-3dthursday-3dprinting/"
+    },
+    {
+      "id": "518afccda8c95e1e0c20e95d8829dbc6",
+      "cat": "行业趋势",
+      "zh": "国家质量强链二期：具身智能机器人、固态电池成攻关方向",
+      "idea": "市场监管总局在推进质量强链专题会上表示，二期十大标志性项目在延续高端仪器仪表、新能源、工业机器人基础上，拓展具身智能机器人、固态动力电池等新方向，并新增工业母机、无人机、先进合成生物制造等重点领域，明确政策与产业资源倾斜。",
+      "en": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
+      "img": "https://img.ithome.com/newsuploadfiles/2026/8/4be16cca-ab39-4cdc-8ede-3940f20b1e1a.jpg?x-bce-process=image/format,f_auto",
+      "source": "IT之家",
+      "time": "2026-08-21 09:44",
+      "link": "https://www.ithome.com/0/992/759.htm"
+    },
+    {
+      "id": "0faf486826f4bd8bf273fc9066de6285",
+      "cat": "行业趋势",
+      "zh": "日本经产省拟再投 1500 亿日元支持 Rapidus 2nm",
+      "idea": "据日经与彭博报道，日本经济产业省计划在 2027 财年预算中编列约 1500 亿日元（约 63.6 亿元人民币）以投资形式继续支持先进半导体企业 Rapidus，助其 2nm 逻辑工艺于 2027 财年量产，进一步夯实日本重夺先进制程商业化之路。",
+      "en": "消息称日本经产省将为支持 Rapidus 再编列 1500 亿日元预算",
+      "img": "https://img.ithome.com/newsuploadfiles/2026/8/b4786768-9e6a-4435-8477-2658dbeb26a0.jpg?x-bce-process=image/format,f_auto",
+      "source": "IT之家",
+      "time": "2026-08-21 09:44",
+      "link": "https://www.ithome.com/0/992/760.htm"
+    },
+    {
+      "id": "9def9282b8bd7707a37ab9b079b555d5",
+      "cat": "行业趋势",
+      "zh": "Linux 7.3 将支持 AMD Solarflare 网卡的 CXL Type-2 加速驱动",
+      "idea": "随着 Linux 7.2 合并 CXL Type-2 加速器驱动基础框架，7.3 将迎来首个落地驱动——面向 AMD Solarflare 网卡的 CXL Type-2 支持。CXL 内存与加速器解耦正加速进入主线内核，对高性能网络与异构计算生态是重要里程碑。",
+      "en": "Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs",
+      "img": "",
+      "source": "Phoronix",
+      "time": "2026-08-21 10:33",
+      "link": "https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2"
+    },
+    {
+      "id": "7554ee068d2ac8fa073a1d7b3e321f6d",
+      "cat": "行业趋势",
+      "zh": "被高通收购后，Modular 将 Mojo 语言开源",
+      "idea": "由 LLVM/Swift 之父 Chris Lattner 创立的 AI 公司 Modular 在被高通收购后，将其系统级编程语言 Mojo 正式开源。Mojo 主打兼顾 Python 易用性与系统级性能，开源有望吸引更多开发者共建 AI 基础设施底层语言生态。",
+      "en": "Modular's Mojo Language Now Open-Source Following Qualcomm Acquisition",
+      "img": "",
+      "source": "Phoronix",
+      "time": "2026-08-19 00:33",
+      "link": "https://www.phoronix.com/news/Modular-Mojo-Open-Source"
+    },
+    {
+      "id": "a6ffa9ae12a71a6dd154b72577e15f76",
+      "cat": "行业趋势",
+      "zh": "AMD EPYC 9005：从 4 到 24 条 DDR5 的内存扩展实测",
+      "idea": "在内存涨价的当下，Phoronix 实测了 Dell 服务器上 EPYC 9005 从 4 到 24 条 DDR5 RDIMM 的扩展性能。现代单路服务器可达 12 甚至 16 内存通道，文章量化了不插满通道对带宽与成本的影响，对数据中心降本有现实指导。",
+      "en": "AMD EPYC 9005 Series Memory Scaling Performance From 4 To 24 DDR5 RDIMMs",
+      "img": "",
+      "source": "Phoronix",
+      "time": "2026-08-19 14:20",
+      "link": "https://www.phoronix.com/review/dell-epyc-9005-memory-scaling"
+    },
+    {
+      "id": "4b984ffc45b6187162466c7464598a84",
+      "cat": "行业趋势",
+      "zh": "NextPCB x Tindie 推出硬件创作者研发扶持计划",
+      "idea": "PCB 制造商 NextPCB 与硬件集市 Tindie 联合推出硬件创作者研发扶持计划，为符合条件的 Tindie 卖家提供打样/制板等支持，降低开发成本、帮助更多酷产品走向市场。反映开源硬件供应链对独立创作者的赋能趋势。",
+      "en": "NextPCB x Tindie Hardware Creator R&D Support Program",
+      "img": "",
+      "source": "Tindie Blog",
+      "time": "2026-08-19 18:00",
+      "link": "https://blog.tindie.com/2026/08/nextpcb-x-tindie-hardware-creator-rd-support-program/"
+    }
+  ]
+}
